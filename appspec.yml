@@ -1,0 +1,5 @@
+version: 0.0
+os: ubuntu 16.04
+files:
+  - sources:/
+    destination: /var/www/html/
